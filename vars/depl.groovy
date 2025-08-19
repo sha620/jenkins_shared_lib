@@ -1,3 +1,3 @@
 def call(){
-  sh "docker run -d multi:la"
+  "sh docker run -d multi:la"
 }
