@@ -1,3 +1,3 @@
 def call(){
-    trivey fs . -o result.json
+    sh "trivey fs . -o result.json"
 }
